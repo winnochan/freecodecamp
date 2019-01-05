@@ -3,6 +3,6 @@
     "version": 2,
     "alias": ["freecodecamp.winnochan.tech"],
     "builds": [
-        { "src": "*.html", "use": "@now/static" }
+        { "src": "*/*.html", "use": "@now/static" }
     ]
 }
