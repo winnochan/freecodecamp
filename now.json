@@ -1,7 +1,7 @@
 {
     "name": "freecodecamp",
     "version": 2,
-    "alias": "zeit.winnochan.tech",
+    "alias": ["winnochan", "zeit.winnochan.tech"],
     "builds": [
         { "src": "*.html", "use": "@now/static" }
     ]
