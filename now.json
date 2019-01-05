@@ -1,3 +1,8 @@
 {
-    "version": 2
+    "name": "freecodecamp",
+    "version": 2,
+    "alias": "freecodecamp",
+    "builds": [
+        { "src": "*.html", "use": "@now/static" }
+    ]
 }
